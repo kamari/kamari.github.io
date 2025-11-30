@@ -2,7 +2,7 @@
 layout: page
 title: mmSV
 description: mmWave Vehicular Networking using Street View Imagery in Urban Environments
-img: assets/img/12.jpg
+img: assets/img/mmsv-s.jpg
 importance: 1
 category: work
 related_publications: true
@@ -30,20 +30,16 @@ As we move towards a future of connected and autonomous vehicles, high-speed and
     </div>
 </div>
 <div class="caption">
-    On the left, Projection of material map on 3D buildings. Middle, Example of final generated 3D material map. Right, mmWave testbed.
+    On the left, Projection of material map on 3D buildings. Right, Example of final generated 3D material map.
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mmsv-devices.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mmsv-devices-ev.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    On the left, Projection of material map on 3D buildings. Middle, Example of final generated 3D material map. Right, mmWave testbed.
+    mmWave testbed and road segments used in evaluation..
 </div>
 
 
