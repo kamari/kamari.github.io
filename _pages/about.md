@@ -41,6 +41,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 <!-- pages/projects.md -->
+
+<h2>Research Projects</h2>
+<hr>
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
