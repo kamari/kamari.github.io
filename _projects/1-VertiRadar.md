@@ -2,7 +2,7 @@
 layout: page
 title: mm-off-road
 description: mmWave in off-road perception and planning systems
-img: assets/img/verti.jpeg
+img: assets/img/verti-log.jpeg
 importance: 1
 category: work
 related_publications: true
