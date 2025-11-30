@@ -31,7 +31,7 @@ latest_posts:
 I am a Ph.D. candidate in Computer Science at [George Mason University](https://cs.gmu.edu/) and I have been lucky to be advised by Prof. [Parth Pathak](http://www.phpathak.com).
 I am a systems researcher with focuses on developing integrated solutions for future wireless networks. I specialize in mmWave communication system design and advanced RF sensing (environmental modeling, neural representations, etc.). A key part of my work is applying these technologies to real-world applications such as robust Localization and SLAM. I am passionate about addressing complex technical challenges and advancing cutting-edge research.
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!--  Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
