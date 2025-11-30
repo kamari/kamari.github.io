@@ -402,7 +402,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-mmnerf",
+          section: "News",},{id: "projects-mmwave-radars",
+          title: 'mmWave Radars',
+          description: "mmWave in off-road perception and planning systems",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1-VertiRadar/";
+            },},{id: "projects-mmnerf",
           title: 'mmNeRF',
           description: "View Synthesis and 6DoF Pose Estimation in mmWave Radar Neural Radiance Fields",
           section: "Projects",handler: () => {
