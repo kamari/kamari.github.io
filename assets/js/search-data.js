@@ -455,13 +455,6 @@ ninja.data = [{
           window.open("mailto:%61%6B%61%6D%61%72%69@%67%6D%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -480,7 +473,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Ahmad-Kamari-2/", "_blank");
+          window.open("https://www.researchgate.net/profile/Ahmad-Kamari-2/", "_blank");
         },
       },{
         id: 'social-rss',
