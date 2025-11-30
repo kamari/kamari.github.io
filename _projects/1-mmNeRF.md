@@ -3,7 +3,7 @@ layout: page
 title: mmNeRF
 description: View Synthesis and 6DoF Pose Estimation in mmWave Radar Neural Radiance Fields
 img: assets/img/mmnerf-datac.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---

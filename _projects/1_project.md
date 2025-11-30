@@ -3,7 +3,7 @@ layout: page
 title: mmSV
 description: mmWave Vehicular Networking using Street View Imagery in Urban Environments
 img: assets/img/mmsv-s.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---
