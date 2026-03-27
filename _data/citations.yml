@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-03-27'
 papers:
   cJrTl9gAAAAJ:4DMP91E08xMC:
     citations: 0
     title: Utilizing mmWave Radars for Autonomous Navigation of UGVs in Degraded Visual Environments
     year: '2024'
   cJrTl9gAAAAJ:4TOpqqG69KYC:
-    citations: 11
+    citations: 12
     title: 'mmSV: mmWave Vehicular Networking using Street View Imagery in Urban Environments'
     year: '2023'
   cJrTl9gAAAAJ:7PzlFSSx8tAC:
@@ -14,7 +14,7 @@ papers:
     title: Enabling American Sign Language Communication Under Low Data Rates
     year: '2025'
   cJrTl9gAAAAJ:9ZlFYXVOiuMC:
-    citations: 0
+    citations: 1
     title: 'CoVeRaP: Cooperative Vehicular Perception through mmWave FMCW Radars'
     year: '2025'
   cJrTl9gAAAAJ:QIV2ME_5wuYC:
