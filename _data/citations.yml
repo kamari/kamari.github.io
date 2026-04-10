@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-04-10'
 papers:
   cJrTl9gAAAAJ:4DMP91E08xMC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: Deploying mmWave distance sensing to Jackal UGV for more accurate navigation in hazardous environments
     year: '2024'
   cJrTl9gAAAAJ:YOwf2qJgpHMC:
-    citations: 6
+    citations: 7
     title: Environment-driven mmWave Beamforming for Multi-user Immersive Applications
     year: '2023'
   cJrTl9gAAAAJ:kNdYIx-mwKoC:
