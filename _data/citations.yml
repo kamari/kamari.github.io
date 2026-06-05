@@ -1,22 +1,26 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-06-05'
 papers:
   cJrTl9gAAAAJ:4DMP91E08xMC:
-    citations: 0
+    citations: 1
     title: Utilizing mmWave Radars for Autonomous Navigation of UGVs in Degraded Visual Environments
     year: '2024'
   cJrTl9gAAAAJ:4TOpqqG69KYC:
     citations: 15
-    title: 'mmSV: mmWave Vehicular Networking using Street View Imagery in Urban Environments'
+    title: 'mmSV: mmWave vehicular networking using street view imagery in urban environments'
     year: '2023'
   cJrTl9gAAAAJ:7PzlFSSx8tAC:
     citations: 0
     title: Enabling American Sign Language Communication Under Low Data Rates
     year: '2025'
   cJrTl9gAAAAJ:9ZlFYXVOiuMC:
-    citations: 1
+    citations: 3
     title: 'CoVeRaP: Cooperative Vehicular Perception through mmWave FMCW Radars'
     year: '2025'
+  cJrTl9gAAAAJ:L8Ckcad2t8MC:
+    citations: 0
+    title: View Synthesis and 6DoF Pose Estimation in mmWave Radar Neural Radiance Fields
+    year: Unknown Year
   cJrTl9gAAAAJ:QIV2ME_5wuYC:
     citations: 0
     title: Enabling American Sign Language Communication Under Low Data Rates
@@ -27,9 +31,9 @@ papers:
     year: '2024'
   cJrTl9gAAAAJ:YOwf2qJgpHMC:
     citations: 9
-    title: Environment-driven mmWave Beamforming for Multi-user Immersive Applications
+    title: Environment-driven mmWave beamforming for multi-user immersive applications
     year: '2023'
   cJrTl9gAAAAJ:kNdYIx-mwKoC:
     citations: 8
-    title: An Optimized Link Correlation Model for Opportunistic Routing
+    title: An optimized link correlation model for opportunistic routing
     year: '2018'
